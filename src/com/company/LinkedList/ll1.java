@@ -16,11 +16,15 @@ public class ll1 {
             temp.data = val;
             temp.next = null;
 
+//            Linkedlist is not empty
             temp.next = head;
             head = temp;
-            if(tail == null) {
+
+//            LinkedList is empty
+            if (tail == null) {
                 tail = temp;
             }
+
             size++;
         }
 
@@ -43,8 +47,11 @@ public class ll1 {
             temp.data = val;
             temp.next = null;
 
+//            LinkedList is empty
             if (size == 0) {
                 head = tail = temp;
+
+//            LinkedList is not empty
             } else {
                 tail.next = temp;
                 tail = temp;
@@ -53,17 +60,29 @@ public class ll1 {
         }
 
         void removeFirst() {
-            head = head.next;
-            size--;
+//            LinkedList is empty
+            if (size == 0) {
+                System.out.println("List is empty");
+//            LinkedList is not empty
+            } else {
+                head = head.next;
+                size--;
+            }
         }
 
         void removeAt(int idx) {
             Node current = head;
-            for (int i = 0; i < idx - 1; i++) {
-                current = current.next;
+//            LinkedList is empty
+            if (size == 0) {
+                System.out.println("Invalid Arguments");
+//            LinkedList is not empty
+            } else {
+                for (int i = 0; i < idx - 1; i++) {
+                    current = current.next;
+                }
+                current.next = current.next.next;
+                size--;
             }
-            current.next = current.next.next;
-            size--;
         }
 
         void removeLast() {
@@ -157,11 +176,11 @@ public class ll1 {
 
         void removeDuplicates() {
             LinkedList res = new LinkedList();
-            while(this.size > 0) {
+            while (this.size > 0) {
                 int val = this.getFirst();
                 this.removeFirst();
 
-                if(res.size == 0 || res.tail.data != val) {
+                if (res.size == 0 || res.tail.data != val) {
                     res.addLast(val);
                 }
             }
@@ -175,23 +194,23 @@ public class ll1 {
             LinkedList odd = new LinkedList();
             LinkedList even = new LinkedList();
 
-            while(this.size > 0) {
+            while (this.size > 0) {
                 int val = this.getFirst();
                 this.removeFirst();
 
-                if(val % 2 == 0){
+                if (val % 2 == 0) {
                     even.addLast(val);
                 } else {
                     odd.addLast(val);
                 }
             }
 
-            if(odd.size > 0 && even.size > 0) {
+            if (odd.size > 0 && even.size > 0) {
                 this.head = odd.head;
                 odd.tail.next = even.head;
                 this.tail = odd.tail;
                 this.size = odd.size + even.size;
-            } else if(odd.size > 0) {
+            } else if (odd.size > 0) {
                 this.head = odd.head;
                 this.tail = odd.tail;
                 this.size = odd.size;
@@ -205,11 +224,11 @@ public class ll1 {
         void KReverse(int k) {
             LinkedList prev = new LinkedList();
 
-            while(this.size > 0) {
+            while (this.size > 0) {
                 LinkedList curr = new LinkedList();
 
-                if(this.size >= k) {
-                    for(int i=0;i<k;i++) {
+                if (this.size >= k) {
+                    for (int i = 0; i < k; i++) {
                         int val = this.getFirst();
                         this.removeFirst();
                         curr.addFirst(val);
@@ -223,12 +242,12 @@ public class ll1 {
                     }
                 }
 
-                if(prev.head == null) {
+                if (prev.head == null) {
                     prev.head = curr.head;
                     prev.tail = curr.tail;
                     prev.size = curr.size;
                 } else {
-                    if(curr.head != null) {
+                    if (curr.head != null) {
                         prev.tail.next = curr.head;
                         prev.tail = curr.tail;
                         prev.size += curr.size;
