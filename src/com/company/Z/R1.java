@@ -25,6 +25,20 @@ public class R1 {
             size++;
         }
 
+        void addAt(int idx, int val) {
+            Node temp = new Node();
+            temp.data = val;
+            temp.next = null;
+
+            Node current = head;
+            for(int i=0;i<idx-1;i++) {
+                current = current.next;
+            }
+            temp.next = current.next;
+            current.next = temp;
+            size++;
+        }
+
         void addLast(int val) {
             Node temp = new Node();
             temp.data = val;
@@ -39,18 +53,36 @@ public class R1 {
             size++;
         }
 
-        void addAt(int idx, int val) {
-            Node temp = new Node();
-            temp.data = val;
-            temp.next = null;
+        void removeFirst() {
+            if(size == 0) {
+                System.out.println("Linked list is empty");
+            }else {
+                head = head.next;
+                size--;
+            }
+        }
 
+        void removeAt(int idx) {
             Node current = head;
             for(int i=0;i<idx-1;i++) {
                 current = current.next;
             }
-            temp.next = current.next;
-            current.next = temp;
-            size++;
+            current.next = current.next.next;
+            size--;
+        }
+
+        void removeLast() {
+            if(size == 0) {
+                System.out.println("Linked list is empty");
+            }else {
+                Node current = head;
+                for(int i=0;i<size-2;i++) {
+                    current = current.next;
+                }
+                current.next = null;
+                tail = current;
+                size--;
+            }
         }
 
         void show() {
@@ -79,6 +111,23 @@ public class R1 {
         l1.addFirst(15);
 
         l1.addAt(4,21);
+
+        l1.show();
+
+        l1.removeFirst();
+        System.out.println();
+        l1.show();
+        System.out.println();
+
+        l1.removeLast();
+        l1.show();
+        System.out.println();
+        System.out.println(l1.head.data);
+        System.out.println(l1.tail.data);
+        System.out.println(l1.size);
+
+        l1.removeAt(5);
+
         l1.show();
     }
 }
