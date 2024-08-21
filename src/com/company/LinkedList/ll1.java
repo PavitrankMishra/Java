@@ -22,7 +22,7 @@ public class ll1 {
 
 //            LinkedList is empty
             if (tail == null) {
-                tail = temp;
+                head = tail = temp;
             }
 
             size++;

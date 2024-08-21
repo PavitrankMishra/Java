@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89f9acf0-21a1-4052-ae73-e77aee159c04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LinkedList/ll1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LinkedList/ll1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z/R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z/R1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/ll1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4675">
-              <caret line="284" column="26" selection-start-line="284" selection-start-column="26" selection-end-line="284" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="e#2376#2377#0" expanded="true" />
                 <element signature="e#2416#2417#0" expanded="true" />
@@ -36,8 +37,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Z/R1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="-292">
+              <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/ll2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -65,15 +75,15 @@
         <option value="$PROJECT_DIR$/src/com/company/LinkedList/ll6.java" />
         <option value="$PROJECT_DIR$/src/com/company/LinkedList/ll7.java" />
         <option value="$PROJECT_DIR$/src/com/company/LinkedList/ll5.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LinkedList/ll1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Basic/B1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Classes/C1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Classes/C2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LinkedList/ll1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z/R1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
@@ -248,17 +258,18 @@
       <workItem from="1723912157668" duration="244000" />
       <workItem from="1723912742301" duration="714000" />
       <workItem from="1724170107002" duration="898000" />
-      <workItem from="1724213418389" duration="3358000" />
+      <workItem from="1724213418389" duration="8071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40163000" />
+    <option name="totallyTimeSpent" value="44876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29490617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29490617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,7 +278,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32761088" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32761088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,13 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/ll2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/ll3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -392,10 +396,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/ll2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/ll1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4675">
-          <caret line="284" column="26" selection-start-line="284" selection-start-column="26" selection-end-line="284" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding>
             <element signature="e#2376#2377#0" expanded="true" />
             <element signature="e#2416#2417#0" expanded="true" />
@@ -409,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Z/R1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="-292">
+          <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
         </state>
       </provider>
     </entry>

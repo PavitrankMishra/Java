@@ -17,10 +17,24 @@ public class R1 {
             temp.next = null;
 
             if(tail == null) {
-                tail = temp;
+                head = tail = temp;
             }else {
                 temp.next = head;
                 head = temp;
+            }
+            size++;
+        }
+
+        void addLast(int val) {
+            Node temp = new Node();
+            temp.data = val;
+            temp.next = null;
+
+            if(tail == null) {
+                head = tail = temp;
+            } else {
+                tail.next = temp;
+                tail = temp;
             }
             size++;
         }
@@ -31,30 +45,17 @@ public class R1 {
             temp.next = null;
 
             Node current = head;
-            for(int i=0;i<idx;i++) {
+            for(int i=0;i<idx-1;i++) {
                 current = current.next;
             }
-            System.out.println(current.data);
-            size++;
-        }
-
-        void addLast(int val) {
-            Node temp = new Node();
-            temp.data = val;
-            temp.next = null;
-
-            if (size == 0) {
-                head = tail = temp;
-            } else {
-                tail.next = temp;
-                tail = temp;
-            }
+            temp.next = current.next;
+            current.next = temp;
             size++;
         }
 
         void show() {
             Node current = head;
-            while(current!=null) {
+            while(current!= null) {
                 System.out.print(current.data + "->");
                 current = current.next;
             }
