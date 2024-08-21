@@ -16,7 +16,7 @@ public class R1 {
             temp.data = val;
             temp.next = null;
 
-            if(tail == null) {
+            if(size==0) {
                 head = tail = temp;
             }else {
                 temp.next = head;
