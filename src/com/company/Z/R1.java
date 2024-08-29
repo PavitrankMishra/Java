@@ -132,6 +132,57 @@ public class R1 {
             }
             System.out.print("null");
         }
+
+        Node getNodeAt(int idx) {
+            Node current = head;
+            for(int i=0;i<idx;i++) {
+                current = current.next;
+            }
+            return current;
+        }
+
+        void reverseDI() {
+            int li = 0;
+            int ri = size-1;
+
+            while(li<ri) {
+                Node left = getNodeAt(li);
+                Node right = getNodeAt(ri);
+
+                int temp = left.data;
+                left.data = right.data;
+                right.data = temp;
+
+                li++;
+                ri--;
+            }
+        }
+
+        int kthFromEnd(int k) {
+            Node s = head;
+            Node f = head;
+
+            for(int i=0;i<k;i++) {
+                f = f.next;
+            }
+
+            while(f.next != null) {
+                s = s.next;
+                f = f.next;
+            }
+            return s.data;
+        }
+
+        int middleOfLinkedList() {
+            Node s = head;
+            Node f = head;
+
+            while(f.next != null && f.next.next != null) {
+                s = s.next;
+                f = f.next.next;
+            }
+            return s.data;
+        }
     }
 
     public static void main(String[] args) {
@@ -186,5 +237,44 @@ public class R1 {
         System.out.println(last);
         int fifth = l1.getAt(5);
         System.out.println(fifth);
+
+        LinkedList l2 = new LinkedList();
+        l2.addLast(99);
+        l2.addLast(98);
+        l2.addLast(97);
+        l2.addLast(96);
+        l2.addLast(95);
+        l2.addLast(94);
+        l2.addLast(93);
+
+        System.out.println();
+        l2.show();
+
+        System.out.println();
+        l2.reverseDI();
+
+        l2.show();
+
+        LinkedList l3 = new LinkedList();
+        l3.addLast(21);
+        l3.addLast(22);
+        l3.addLast(23);
+        l3.addLast(24);
+        l3.addLast(25);
+        l3.addLast(26);
+
+        System.out.println();
+
+        System.out.println(l3.kthFromEnd(3));
+
+        LinkedList l4 = new LinkedList();
+        l4.addLast(12);
+        l4.addLast(13);
+        l4.addLast(14);
+        l4.addLast(15);
+        l4.addLast(16);
+        l4.addLast(17);
+
+        System.out.println(l4.middleOfLinkedList());
     }
 }
