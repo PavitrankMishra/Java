@@ -1,10 +1,11 @@
 package com.company.Z_AC;
 
+//Calculate Score
 public class AC8 {
     public static int calc_Score(String s1) {
         int score = 0;
         int count = 0;
-        for(int i=0;i<s1.length();i++) {
+        for(int i=0;i<=s1.length()-1;i++) {
             if(s1.charAt(i) == 'H') {
                 score += 2;
                 count++;

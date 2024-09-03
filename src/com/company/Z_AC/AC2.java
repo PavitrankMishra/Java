@@ -3,12 +3,13 @@ package com.company.Z_AC;
 //Convert Decimal to binary
 public class AC2 {
     public static String Binary(int n) {
-        String ans = "";
-        while(n > 0) {
-            ans = ((n%2) == 0 ? "0" : "1") + ans;
-            n = n/2;
+        String res = "";
+
+        while(n>0) {
+            res += n%2;
+            n/=2;
         }
-        return ans;
+        return res;
     }
 
     public static void main(String[] args) {

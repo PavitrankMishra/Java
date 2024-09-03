@@ -8,21 +8,18 @@ public class AC6 {
         int[] pre = new int[n];
         int[] suf = new int[n];
 
-
         pre[0] = num1[0];
-        for(int i = 1; i < n; i++) {
+        for(int i=1;i<n;i++) {
             pre[i] = num1[i] + pre[i-1];
         }
 
-
         suf[n-1] = num1[n-1];
-        for(int i = n-2; i >= 0; i--) {
+        for(int i=n-2;i>=0;i--) {
             suf[i] = num1[i] + suf[i+1];
         }
 
-
-        for(int i = 0; i < n; i++) {
-            if (pre[i] == suf[i]) {
+        for(int i=0;i<n;i++) {
+            if(pre[i] == suf[i]) {
                 return i;
             }
         }

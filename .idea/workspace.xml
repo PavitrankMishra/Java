@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89f9acf0-21a1-4052-ae73-e77aee159c04" name="Default Changelist" comment="Updated Linked list">
+    <list default="true" id="89f9acf0-21a1-4052-ae73-e77aee159c04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z/R1$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z/R1$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z/R1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z/R1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC5.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Z/R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z/R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/Z_AC/AC9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z_AC/AC9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z_AC/AC9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,32 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Z/R1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3026">
-              <caret line="180" column="27" selection-start-line="180" selection-start-column="27" selection-end-line="180" selection-end-column="27" />
-              <folding>
-                <element signature="e#2906#2907#0" expanded="true" />
-                <element signature="e#2941#2942#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Z/R2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -59,32 +45,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="357">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="187">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC5.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-340">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -93,10 +88,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC6.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+            <state relative-caret-position="374">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -130,19 +152,28 @@
         <option value="$PROJECT_DIR$/src/com/company/Classes/C2.java" />
         <option value="$PROJECT_DIR$/src/com/company/LinkedList/ll1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/Z1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z/R1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z/R.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z/R2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC7.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC10.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC11.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC13.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_TC/TC1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC16.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC17.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC18.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC8.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC9.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC2.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC3.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z/R1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z/R.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC4.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC5.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC6.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z/R2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC7.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC8.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC9.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC10.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC12.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC14.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC15.java" />
       </list>
     </option>
   </component>
@@ -164,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,33 +220,26 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Z" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="Z_AC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Z_TC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -229,9 +254,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AC9">
-    <configuration name="AC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC7" />
+  <component name="RunManager" selected="Application.AC15">
+    <configuration name="AC12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC12" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -243,8 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AC8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC8" />
+    <configuration name="AC14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC14" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -256,8 +281,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AC9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC9" />
+    <configuration name="AC15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC15" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -269,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z.R1" />
+    <configuration name="AC5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC5" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Z.*" />
+          <option name="PATTERN" value="com.company.Z_AC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z.R2" />
+    <configuration name="AC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z_AC.AC6" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Z.*" />
+          <option name="PATTERN" value="com.company.Z_AC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AC9" />
-        <item itemvalue="Application.AC8" />
-        <item itemvalue="Application.AC7" />
-        <item itemvalue="Application.R2" />
-        <item itemvalue="Application.R1" />
+        <item itemvalue="Application.AC15" />
+        <item itemvalue="Application.AC14" />
+        <item itemvalue="Application.AC12" />
+        <item itemvalue="Application.AC6" />
+        <item itemvalue="Application.AC5" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +362,11 @@
       <workItem from="1724655051140" duration="2014000" />
       <workItem from="1724735636291" duration="599000" />
       <workItem from="1724861916609" duration="5616000" />
-      <workItem from="1724903502699" duration="2732000" />
+      <workItem from="1724903502699" duration="2973000" />
+      <workItem from="1725211350828" duration="3749000" />
+      <workItem from="1725254568115" duration="6317000" />
+      <workItem from="1725296779579" duration="4359000" />
+      <workItem from="1725383789119" duration="3558000" />
     </task>
     <task id="LOCAL-00001" summary="New Commit">
       <created>1724223373221</created>
@@ -388,11 +417,25 @@
       <option name="project" value="LOCAL" />
       <updated>1724521031604</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added 3 new questions">
+      <created>1724906302438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724906302438</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New Commit">
+      <created>1724906367961</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724906367961</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71142000" />
+    <option name="totallyTimeSpent" value="89366000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,7 +450,7 @@
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3378016" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35656837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,13 +459,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32761088" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32761088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32904148" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3304721" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3304721" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -482,11 +525,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New Commit" />
     <MESSAGE value="Updated linkedlist methods" />
     <MESSAGE value="Updated New questions" />
     <MESSAGE value="Updated Linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Linked list" />
+    <MESSAGE value="Added 3 new questions" />
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -596,34 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Z/R1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3026">
@@ -635,20 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Z/R2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -656,31 +658,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_TC/TC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="595">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC8.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="269">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC9.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC18.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC10.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC15.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
