@@ -15,20 +15,19 @@ public class AC16 {
 
         if(count_Digit == 1) {
             res = originalN;
-            return originalN;
-        } else if(count_Digit > 1 && originalN %2 == 0) {
+            return res;
+        } else if(count_Digit > 1 && originalN % 2 == 0) {
             res = ((originalN-2)/2);
             return res;
-        } else if(count_Digit > 1 && originalN %2 != 0){
+        } else if(count_Digit > 1&& originalN % 2 != 0) {
             res = ((originalN/2));
             return res;
         } else {
             return 0;
         }
-
     }
     public static void main(String[] args) {
-        int n = 10;
+        int n = 111;
         int res = single_digit(n);
         System.out.println(res);
 
