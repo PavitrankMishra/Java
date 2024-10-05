@@ -14,6 +14,6 @@ public class ll4 extends ll1{
 
         list4.show();
 
-        System.out.println(list4.middleOfLinkedList());
+//        System.out.println(list4.middleOfLinkedList());
     }
 }

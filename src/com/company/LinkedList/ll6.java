@@ -13,7 +13,7 @@ public class ll6 extends ll1{
 
         list6.show();
 
-        list6.OddEven();
+//        list6.OddEven();
 
         list6.show();
     }

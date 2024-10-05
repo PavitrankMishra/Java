@@ -15,7 +15,7 @@ public class ll7 extends ll1{
 
         list7.show();
 
-        list7.KReverse(2);
+//        list7.KReverse(2);
 
         list7.show();
     }

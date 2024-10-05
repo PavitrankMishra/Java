@@ -13,7 +13,7 @@ public class ll5 extends ll1{
 
         list5.show();
 
-        list5.removeDuplicates();
+//        list5.removeDuplicates();
 
         list5.show();
     }

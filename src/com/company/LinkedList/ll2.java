@@ -13,7 +13,7 @@ public class ll2 extends ll1{
 
         list.show();
 
-        list.reverseDI();
+//        list.reverseDI();
 
         list.show();
     }

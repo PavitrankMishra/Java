@@ -12,7 +12,7 @@ public class ll3 extends ll1{
         list2.addLast(5);
         list2.addLast(6);
 
-        System.out.println("The 3rd element from the end is: " + list2.kthFromEnd(3));
+//        System.out.println("The 3rd element from the end is: " + list2.kthFromEnd(3));
 
 
     }
