@@ -1,6 +1,9 @@
 package com.company.String;
 
 import java.util.*;
+
+//Sort the string alphabetically
+
 public class S5 {
     public static void main(String[] args) {
         String str = "rock";
