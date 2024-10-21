@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89f9acf0-21a1-4052-ae73-e77aee159c04" name="Default Changelist" comment="">
+    <list default="true" id="89f9acf0-21a1-4052-ae73-e77aee159c04" name="Default Changelist" comment="New Commit">
+      <change afterPath="$PROJECT_DIR$/src/com/company/String/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/String/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/String/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/String/S4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/String/S7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/String/S8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/LinkedList/ll1$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/LinkedList/ll1$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/LinkedList/ll1$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/LinkedList/ll1$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/LinkedList/ll1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/company/LinkedList/ll1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LinkedList/ll1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LinkedList/ll1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,56 +22,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="184">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B4.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#230#241#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B5.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B6.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="34">
+              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B7.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+            <state relative-caret-position="133">
+              <caret line="32" column="67" lean-forward="true" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#729#749#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/String/S8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#228#248#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="816">
               <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
             </state>
           </provider>
@@ -99,12 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Stacks/st2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Basic/B1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Classes/C1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Classes/C2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z_AC/Z1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Z/R1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z/R.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z/R2.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z_AC/AC7.java" />
@@ -147,6 +181,15 @@
         <option value="$PROJECT_DIR$/src/com/company/Basic/B6.java" />
         <option value="$PROJECT_DIR$/src/com/company/Basic/B7.java" />
         <option value="$PROJECT_DIR$/src/com/company/Basic/B8.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Basic/B9.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S3.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S4.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S5.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S6.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S7.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S8.java" />
       </list>
     </option>
   </component>
@@ -168,8 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,10 +229,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,13 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.B8">
-    <configuration name="B3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Basic.B3" />
+  <component name="RunManager" selected="Application.S8">
+    <configuration name="S4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.String.S4" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Basic.*" />
+          <option name="PATTERN" value="com.company.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Basic.B4" />
+    <configuration name="S5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.String.S5" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Basic.*" />
+          <option name="PATTERN" value="com.company.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Basic.B6" />
+    <configuration name="S6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.String.S6" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Basic.*" />
+          <option name="PATTERN" value="com.company.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Basic.B7" />
+    <configuration name="S7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.String.S7" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Basic.*" />
+          <option name="PATTERN" value="com.company.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Basic.B8" />
+    <configuration name="S8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.String.S8" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Basic.*" />
+          <option name="PATTERN" value="com.company.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B8" />
-        <item itemvalue="Application.B7" />
-        <item itemvalue="Application.B6" />
-        <item itemvalue="Application.B4" />
-        <item itemvalue="Application.B3" />
+        <item itemvalue="Application.S8" />
+        <item itemvalue="Application.S7" />
+        <item itemvalue="Application.S6" />
+        <item itemvalue="Application.S5" />
+        <item itemvalue="Application.S4" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +388,8 @@
       <workItem from="1728457410545" duration="5486000" />
       <workItem from="1729357839936" duration="1651000" />
       <workItem from="1729398908280" duration="15748000" />
-      <workItem from="1729443151008" duration="1137000" />
+      <workItem from="1729443151008" duration="2425000" />
+      <workItem from="1729490876863" duration="10431000" />
     </task>
     <task id="LOCAL-00001" summary="New Commit">
       <created>1724223373221</created>
@@ -438,11 +489,25 @@
       <option name="project" value="LOCAL" />
       <updated>1725560040990</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Tried new questions based on conversion of any base number, addition, subtraction and multiplication  of any base numbers.">
+      <created>1729444495022</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1729444495022</updated>
+    </task>
+    <task id="LOCAL-00016" summary="New Commit">
+      <created>1729445617035</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729445617035</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141707000" />
+    <option name="totallyTimeSpent" value="153426000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,10 +519,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22520107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -466,13 +531,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32761088" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32761088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32904148" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3304721" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3304721" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -536,48 +601,17 @@
     <MESSAGE value="Updated New questions" />
     <MESSAGE value="Updated Linked list" />
     <MESSAGE value="Added 3 new questions" />
-    <MESSAGE value="New Commit" />
     <MESSAGE value="Updated some questions" />
     <MESSAGE value="Implemented stack using array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented stack using array" />
+    <MESSAGE value="Tried new questions based on conversion of any base number, addition, subtraction and multiplication  of any base numbers." />
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Stacks.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Classes/C1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Classes/C2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z/R.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z/R1.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z/R2.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Z_AC/AC2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -812,6 +846,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -849,15 +897,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
+        <state relative-caret-position="816">
           <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Basic/B10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#230#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="32" column="67" lean-forward="true" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#729#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#248#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
