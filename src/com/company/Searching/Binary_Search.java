@@ -2,6 +2,8 @@ package com.company.Searching;
 
 public class Binary_Search {
     public static void main(String[] args) {
+//        Binary Search - Searching algorithm that helps to find the position of a target value within a sorted array. Half of the array is eliminated at each step.
+
         int[] arr = new int [] {1,2,3,4,5,6,7,8,9,10};
         int res = binary_Search(arr, 9);
         if(res != -1) {
