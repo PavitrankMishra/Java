@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0563cc5-5d8d-4cf1-960a-df364a523538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Count_Number_Of_Possible_Triangles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,14 +61,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Symmetric_Pairs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Isogram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
-                <element signature="e#487#504#0" expanded="true" />
+                <element signature="e#289#300#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/Print_Subarrays_Size_K.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -102,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/com/company/Array/Count_Number_Of_Possible_Triangles.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/All_Pairs.java" />
         <option value="$PROJECT_DIR$/src/com/company/Hashing/Symmetric_Pairs.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Hashing/Isogram.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/Print_Subarrays_Size_K.java" />
       </list>
     </option>
   </component>
@@ -137,6 +156,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Hashing" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -162,20 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Symmetric_Pairs">
-    <configuration name="All_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Array.All_Subarray" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Print_Subarrays_Size_K">
     <configuration name="Count_Number_Of_Possible_Triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Array.Count_Number_Of_Possible_Triangles" />
       <module name="Java" />
@@ -189,12 +209,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Substrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Substrings" />
+    <configuration name="Isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Hashing.Isogram" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Strings.*" />
+          <option name="PATTERN" value="com.company.Hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print_Subarrays_Size_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array.Print_Subarrays_Size_K" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Print_Subarrays_Size_K" />
+        <item itemvalue="Application.Isogram" />
         <item itemvalue="Application.Symmetric_Pairs" />
         <item itemvalue="Application.Count_Number_Of_Possible_Triangles" />
         <item itemvalue="Application.matrix" />
-        <item itemvalue="Application.All_Subarray" />
-        <item itemvalue="Application.Substrings" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +294,8 @@
       <workItem from="1736957274232" duration="1887000" />
       <workItem from="1737095332928" duration="1936000" />
       <workItem from="1737123851977" duration="596000" />
-      <workItem from="1737370163244" duration="5686000" />
+      <workItem from="1737370163244" duration="5967000" />
+      <workItem from="1737436216967" duration="7186000" />
     </task>
     <task id="LOCAL-00001" summary="New Commit">
       <created>1733317210590</created>
@@ -291,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1734867286065</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Complete Symmetric Pairs problem">
+      <created>1737379103854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737379103854</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39855000" />
+    <option name="totallyTimeSpent" value="47322000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,9 +349,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1621984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,13 +359,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32904148" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32474965" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32474965" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32761088" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -349,7 +389,9 @@
     <MESSAGE value="Added new Packages" />
     <MESSAGE value="Done Linear Search and Binary Search" />
     <MESSAGE value="Done Concatenation of array and Running Sum of an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Concatenation of array and Running Sum of an array" />
+    <MESSAGE value="Complete Symmetric_Pairs problem" />
+    <MESSAGE value="Complete Symmetric Pairs problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Symmetric Pairs problem" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -370,6 +412,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/All_Pairs.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/matrix.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/Subsets.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Subsets_Comparison.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Substrings.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Searching/Binary_Search.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -384,20 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/All_Pairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/Running_Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -405,31 +438,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/All_Subarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Subsets_Comparison.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Substrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -443,10 +455,24 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Symmetric_Pairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Isogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
-            <element signature="e#487#504#0" expanded="true" />
+            <element signature="e#289#300#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/Print_Subarrays_Size_K.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
