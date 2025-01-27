@@ -119,6 +119,65 @@ public class Create_LinkedList {
         int size() {
             return size;
         }
+
+/* Remove_Kth_Node_From_Linkedlist*/
+        void removeKth(int k) {
+            if(k<=0 || head == null) return;
+
+            Node current = head;
+            Node prev = null;
+            int count = 1;
+
+            while(current != null) {
+                if(count%k == 0) {
+                    if(prev!=null) {
+                        prev.next = current.next;
+                    } else {
+                        head = current.next;
+                    }
+                    size--;
+                } else {
+                    prev = current;
+                }
+                current = current.next;
+                count++;
+            }
+
+            current = head;
+            while(current!= null) {
+                System.out.print(current.data + "->");
+                current = current.next;
+            }
+            System.out.print("null");
+        }
+
+        void findMiddle() {
+            if (head == null) {
+                System.out.println("The list is empty.");
+                return;
+            }
+
+            Node slow = head;
+            Node fast = head;
+
+            // Use the two-pointer technique
+            while (fast != null && fast.next != null) {
+                slow = slow.next;
+                fast = fast.next.next;
+            }
+
+            // `slow` will now point to the middle node
+            System.out.println("Middle node data: " + slow.data);
+//            if(size < 1) {
+//                System.out.println("No element present");
+//                return -1;
+//            } else if(size == 1) {
+//                return head.data;
+//            } else {
+//                int n = size/2;
+//                return getAt(n);
+//            }
+        }
     }
 
     public static void main(String[] args) {
@@ -159,5 +218,15 @@ public class Create_LinkedList {
         System.out.println(ll1.getLast());
 
         System.out.println(ll1.getAt(3));
+
+        int k = 2;
+        ll1.removeKth(k);
+        System.out.println();
+        ll1.addLast(7);
+        ll1.addLast(8);
+        ll1.addLast(9);
+        ll1.addLast(10);
+        ll1.display();
+        ll1.findMiddle();
     }
 }
