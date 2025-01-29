@@ -59,5 +59,37 @@ public class Find_Length_Strings {
         }
 
         System.out.println("The string after removing the character is: " + sb.toString());
+
+//        Insert a character at multiple positions
+        String a6 = "geeksforgeeks";
+        int [] chars = new int [] {1,5,7,9};
+
+        StringBuilder a7 = new StringBuilder();
+        int j = 0;
+        for(int i=0;i<a6.length();i++) {
+            if(j<chars.length && i == chars[j]) {
+                a7.append("*");
+                j++;
+            }
+            a7.append(a6.charAt(i));
+        }
+
+        System.out.println("The updated string after insertion is: " + a7.toString());
+
+//        Remove all occurrences of a character
+
+        String a8 = "geeksforgeeks";
+        char a9 = 'e';
+
+        StringBuilder a10 = new StringBuilder();
+        for(int i=0;i<a8.length();i++) {
+            if(a8.charAt(i) == a9) {
+                continue;
+            } else {
+                a10.append(a8.charAt(i));
+            }
+        }
+
+        System.out.println("The string after removing the occurrence is: " + a10.toString());
     }
 }
