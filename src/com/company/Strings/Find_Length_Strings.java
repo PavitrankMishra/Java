@@ -91,5 +91,31 @@ public class Find_Length_Strings {
         }
 
         System.out.println("The string after removing the occurrence is: " + a10.toString());
+
+//        Concatenation of two strings
+        String s1 = "Hello";
+        String s2 = "World";
+
+        String res = s1 + s2;
+        System.out.println("The string after concatenation is: " + res);
+
+//        Reverse a string
+        String s3 = "GeeksforGeeks";
+
+        String res1 = "";
+        for(int i=s3.length()-1;i>=0;i--){
+            res1 += s3.charAt(i);
+        }
+
+        System.out.println("The reversed string is: " + res1);
+
+//        Print all the substrings
+        String s4 = "abc";
+
+        for(int i=0;i<s4.length();i++) {
+            for(int k=i+1;k<=s4.length();k++) {
+                System.out.println(s4.substring(i,k) + " ");
+            }
+        }
     }
 }
