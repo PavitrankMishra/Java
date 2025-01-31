@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0563cc5-5d8d-4cf1-960a-df364a523538" name="Default Changelist" comment="Updated the string class">
+    <list default="true" id="a0563cc5-5d8d-4cf1-960a-df364a523538" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Binary_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Camel_Case_Of_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Check_If_Given_String_Is_Panagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Count_Substring_That_Start_And_Ends_With_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Palindrome_Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Strings/Find_Length_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Strings/Find_Length_Strings.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,47 +21,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Find_Length_Strings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="829">
-              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Max_Distance_Two_Occurrences.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Minimum_Remove_For_No_Common_Elements.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Binary_String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Duplicate_With_K_Distance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Disjoint_Set.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Camel_Case_Of_String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Count_Substring_That_Start_And_Ends_With_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Check_If_Given_String_Is_Panagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Palindrome_Strings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -155,6 +159,11 @@
         <option value="$PROJECT_DIR$/src/com/company/Hashing/Max_Distance_Two_Occurrences.java" />
         <option value="$PROJECT_DIR$/src/com/company/Hashing/Duplicate_With_K_Distance.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strings/Find_Length_Strings.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Binary_String.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Camel_Case_Of_String.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Count_Substring_That_Start_And_Ends_With_1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Check_If_Given_String_Is_Panagram.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Palindrome_Strings.java" />
       </list>
     </option>
   </component>
@@ -222,35 +231,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Find_Length_Strings">
-    <configuration name="Create_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Linkedlist.Create_LinkedList" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Duplicate_With_K_Distance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Hashing.Duplicate_With_K_Distance" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Find_Length_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Find_Length_Strings" />
+  <component name="RunManager" selected="Application.Palindrome_Strings">
+    <configuration name="Binary_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Binary_String" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -262,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Distance_Two_Occurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Hashing.Max_Distance_Two_Occurrences" />
+    <configuration name="Camel_Case_Of_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Camel_Case_Of_String" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Hashing.*" />
+          <option name="PATTERN" value="com.company.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +258,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Every_Kth_Node_From_Linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Linkedlist.Remove_Every_Kth_Node_From_Linkedlist" />
+    <configuration name="Check_If_Given_String_Is_Panagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Check_If_Given_String_Is_Panagram" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Linkedlist.*" />
+          <option name="PATTERN" value="com.company.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_Substring_That_Start_And_Ends_With_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Count_Substring_That_Start_And_Ends_With_1" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Palindrome_Strings" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Find_Length_Strings" />
-        <item itemvalue="Application.Duplicate_With_K_Distance" />
-        <item itemvalue="Application.Max_Distance_Two_Occurrences" />
-        <item itemvalue="Application.Create_LinkedList" />
-        <item itemvalue="Application.Remove_Every_Kth_Node_From_Linkedlist" />
+        <item itemvalue="Application.Palindrome_Strings" />
+        <item itemvalue="Application.Check_If_Given_String_Is_Panagram" />
+        <item itemvalue="Application.Count_Substring_That_Start_And_Ends_With_1" />
+        <item itemvalue="Application.Camel_Case_Of_String" />
+        <item itemvalue="Application.Binary_String" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +344,8 @@
       <workItem from="1738136774944" duration="621000" />
       <workItem from="1738159612022" duration="2727000" />
       <workItem from="1738170539697" duration="1928000" />
-      <workItem from="1738214933755" duration="2368000" />
+      <workItem from="1738214933755" duration="3014000" />
+      <workItem from="1738328845603" duration="4564000" />
     </task>
     <task id="LOCAL-00001" summary="New Commit">
       <created>1733317210590</created>
@@ -435,11 +445,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738172471796</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated 3 questions in string class">
+      <created>1738221505097</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738221505098</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94480000" />
+    <option name="totallyTimeSpent" value="99690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,8 +469,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1930295" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19571045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -462,13 +480,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32904148" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32474965" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32474965" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32761088" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -503,7 +521,8 @@
     <MESSAGE value="String questions" />
     <MESSAGE value="Done 2 questions on hashing" />
     <MESSAGE value="Updated the string class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the string class" />
+    <MESSAGE value="Updated 3 questions in string class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated 3 questions in string class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -641,8 +660,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Find_Length_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        <state relative-caret-position="390">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
@@ -706,6 +725,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Binary_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Camel_Case_Of_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Count_Substring_That_Start_And_Ends_With_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Check_If_Given_String_Is_Panagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Palindrome_Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
