@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0563cc5-5d8d-4cf1-960a-df364a523538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Distinct_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Find_Missing_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Prefix_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Print_All_Subarray_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Repeating_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Segregate_0s_1s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Single_Element_Among_Doubles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Sliding_Window_Technique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array/Easy/Stable_Binary_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Basic/Concatenate_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String_At_Certain_Positions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_All_Occurrences_Of_A_Character_In_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_Character_From_A_Given_Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Sorting/Two_Pointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Sorting/Two_Pointer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,61 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Sorting/Two_Pointer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Prefix_Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Sliding_Window_Technique.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Distinct_Elements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#235#244#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Print_All_Subarray_Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Single_Element_Among_Doubles.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-              <folding>
-                <element signature="e#237#246#0" expanded="true" />
-              </folding>
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -89,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Find_Missing_Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="714">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,10 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Repeating_Elements.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#180#189#0" expanded="true" />
-              </folding>
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -110,17 +51,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Segregate_0s_1s.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="221">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Stable_Binary_Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_Character_From_A_Given_Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String_At_Certain_Positions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_All_Occurrences_Of_A_Character_In_A_String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Stable_Binary_Sort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Concatenate_Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -140,12 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Hashing/Minimum_Remove_For_No_Common_Elements.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Linkedlist/Find_Length_Linkedlist.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Linkedlist/Remove_Every_Kth_Node_From_Linkedlist.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Linkedlist/Create_LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Hashing/Max_Distance_Two_Occurrences.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Hashing/Duplicate_With_K_Distance.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strings/Find_Length_Strings.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strings/Binary_String.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strings/Camel_Case_Of_String.java" />
@@ -191,6 +171,12 @@
         <option value="$PROJECT_DIR$/src/com/company/Array/Easy/Repeating_Elements.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/Easy/Segregate_0s_1s.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/Easy/Stable_Binary_Sort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Basic.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_Character_From_A_Given_Position.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String_At_Certain_Positions.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_All_Occurrences_Of_A_Character_In_A_String.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Strings/Basic/Concatenate_Strings.java" />
       </list>
     </option>
   </component>
@@ -206,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -230,15 +217,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="Searching" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
@@ -247,11 +226,17 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="Sorting" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,13 +258,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Segregate_0s_1s">
-    <configuration name="Find_Missing_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Array.Easy.Find_Missing_Number" />
+  <component name="RunManager" selected="Application.Concatenate_Strings">
+    <configuration name="Concatenate_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Basic.Concatenate_Strings" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Array.Easy.*" />
+          <option name="PATTERN" value="com.company.Strings.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_All_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Array.Easy.Print_All_Subarray" />
+    <configuration name="Insert_Character_In_A_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Basic.Insert_Character_In_A_String" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Array.Easy.*" />
+          <option name="PATTERN" value="com.company.Strings.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repeating_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Array.Easy.Repeating_Elements" />
+    <configuration name="Insert_Character_In_A_String_At_Certain_Positions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Basic.Insert_Character_In_A_String_At_Certain_Positions" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Array.Easy.*" />
+          <option name="PATTERN" value="com.company.Strings.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Segregate_0s_1s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Array.Easy.Segregate_0s_1s" />
+    <configuration name="Remove_All_Occurrences_Of_A_Character_In_A_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Basic.Remove_All_Occurrences_Of_A_Character_In_A_String" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Array.Easy.*" />
+          <option name="PATTERN" value="com.company.Strings.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Single_Element_Among_Doubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Array.Easy.Single_Element_Among_Doubles" />
+    <configuration name="Remove_Character_From_A_Given_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Strings.Basic.Remove_Character_From_A_Given_Position" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Array.Easy.*" />
+          <option name="PATTERN" value="com.company.Strings.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Segregate_0s_1s" />
-        <item itemvalue="Application.Repeating_Elements" />
-        <item itemvalue="Application.Find_Missing_Number" />
-        <item itemvalue="Application.Single_Element_Among_Doubles" />
-        <item itemvalue="Application.Print_All_Subarray" />
+        <item itemvalue="Application.Concatenate_Strings" />
+        <item itemvalue="Application.Remove_All_Occurrences_Of_A_Character_In_A_String" />
+        <item itemvalue="Application.Insert_Character_In_A_String_At_Certain_Positions" />
+        <item itemvalue="Application.Remove_Character_From_A_Given_Position" />
+        <item itemvalue="Application.Insert_Character_In_A_String" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +385,10 @@
       <workItem from="1739606106468" duration="2600000" />
       <workItem from="1739627982048" duration="6000" />
       <workItem from="1739682222102" duration="1005000" />
-      <workItem from="1739771444313" duration="8281000" />
+      <workItem from="1739771444313" duration="8334000" />
+      <workItem from="1740061839473" duration="830000" />
+      <workItem from="1740146110001" duration="838000" />
+      <workItem from="1740215081346" duration="3953000" />
     </task>
     <task id="LOCAL-00001" summary="New Commit">
       <created>1733317210590</created>
@@ -563,11 +551,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739614110195</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated array class">
+      <created>1739795053432</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739795053432</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147001000" />
+    <option name="totallyTimeSpent" value="152675000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -580,9 +575,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23123324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -591,7 +585,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -636,47 +630,11 @@
     <MESSAGE value="Updated string class" />
     <MESSAGE value="String class updated with 2 questions" />
     <MESSAGE value="Array class updated" />
-    <MESSAGE value="Updated array class" />
     <MESSAGE value="Updated searching and sorting class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated searching and sorting class" />
+    <MESSAGE value="Updated array class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated array class" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Hashing/Disjoint_Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Binary_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Camel_Case_Of_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/String_Subsequence.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Count_Substring_That_Start_And_Ends_With_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Check_If_Given_String_Is_Panagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Palindrome_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -951,9 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#235#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -967,41 +922,77 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Single_Element_Among_Doubles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding>
-            <element signature="e#237#246#0" expanded="true" />
-          </folding>
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Find_Missing_Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="714">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Repeating_Elements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#180#189#0" expanded="true" />
-          </folding>
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Segregate_0s_1s.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/Easy/Stable_Binary_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_Character_From_A_Given_Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Insert_Character_In_A_String_At_Certain_Positions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Remove_All_Occurrences_Of_A_Character_In_A_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Strings/Basic/Concatenate_Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
