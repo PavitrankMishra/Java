@@ -1,4 +1,4 @@
-package com.company.Linkedlist;
+package com.company.Linkedlist.Basic;
 
 import java.util.*;
 public class Find_Length_Linkedlist {
